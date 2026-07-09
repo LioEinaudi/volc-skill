@@ -1,0 +1,4 @@
+interface:
+  display_name: "Volc ML Platform"
+  short_description: "Volcengine ML Platform CLI workflows"
+  default_prompt: "Use $volc to manage 火山引擎机器学习平台开发机 and training jobs from the volc CLI."
