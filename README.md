@@ -1,5 +1,7 @@
 # Volc Skill
 
+**简体中文** | [English](README_EN.md)
+
 适用于 Codex 和 Claude Code 的火山引擎机器学习平台（veMLP）命令行 Agent Skill，帮助代理在本地终端或远程开发机中完成开发机管理、任务提交与运行状态排查。
 
 ## 功能范围
